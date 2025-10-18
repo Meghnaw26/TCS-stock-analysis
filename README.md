@@ -131,3 +131,71 @@ The goal is to analyze the historical data of TCS stock to gain insights into st
 
 
 
+## **Dashboard**
+<img width="1905" height="999" alt="Image" src="https://github.com/user-attachments/assets/86d611fc-f3ab-4ed2-a17c-12475bea53aa" />
+
+
+
+<img width="1910" height="996" alt="Image" src="https://github.com/user-attachments/assets/7c10047f-d538-4a2f-ae64-e102b6b21a34" />
+
+🔗 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/TCSStockAnalysisDashboard/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
+## Key Insights
+1.	Steady Growth:
+The stock price has experienced a remarkable upward trend from 2003 to 2021, reflecting strong growth in TCS's stock performance. This is evident from the candlestick chart, where prices show significant rises post-2015.
+
+
+2.	Dividend Growth:
+TCS has consistently increased its dividend payouts, aligning with its strong stock performance. The dashboard shows the historical relationship between dividends and closing prices, indicating healthy returns for investors.
+
+
+3.	Stock Splits Impact:
+Stock splits have occurred over the years, especially around periods of significant growth. This is highlighted in the timeline showing stock price changes alongside stock split events.
+
+
+4.	Price vs. Volume Insights:
+The close price has shown a strong positive correlation with trading volume, especially during periods of rapid price increases. The "Close Price vs Volume" chart shows how trading volume spikes during price jumps, indicating strong market interest during key events.
+
+
+5.	Monthly Trading Activity:
+The volume by month analysis reveals peak trading activity in certain months (e.g., April, October). This suggests seasonal trends or company-specific announcements that drive trading volume .
+
+
+7.	Risk and Volatility:
+The risk and volatility analysis within the dashboard can assist investors in identifying periods of higher risk, which can guide investment decisions. By tracking metrics such as daily returns and moving averages, users can assess potential price fluctuations.
+
+
+
+## Recommendations
+1.	Leverage Predictive Analytics:
+Given the high accuracy of predictive models, users should rely on these forecasts for short-term price predictions. These models can be further improved with more data or more advanced techniques like ensemble models.
+
+
+2.	Monitor Technical Indicators:
+Continuously track technical indicators like moving averages for better trading decisions. The "MA Crossover Signals" feature can be particularly useful for detecting buying or selling opportunities based on price movements.
+
+
+3.	Focus on Dividend Stocks:
+Given TCS's consistent dividend growth, it would be advisable for long-term investors to consider dividend reinvestment strategies. The dashboard provides a historical view of dividends, which can help in identifying trends and predicting future payouts 
+
+
+4.	Investors Should Watch for Volatility:
+The stock has demonstrated periods of high volatility, especially around major growth events (stock splits and strong price rises). It's important to monitor these fluctuations, especially during market corrections, and adapt investment strategies accordingly 
+
+
+5.	Consider Real-Time Data Integration:
+As the current setup primarily relies on historical data, integrating real-time market data feeds would enhance the relevance and utility of the analysis. This could further improve decision-making for active traders .
+
+
+6.	Risk Mitigation:
+Risk assessment tools such as volatility tracking, risk-adjusted returns  and stop-loss strategies could be added to further assist investors in managing potential downsides .
+
+
+
+
+
+
+
+
